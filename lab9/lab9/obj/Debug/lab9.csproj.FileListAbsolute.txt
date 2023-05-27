@@ -1,0 +1,8 @@
+D:\pliki\programy\STUDIA\Platformy technologiczne\lab9\lab9\bin\Debug\lab9.exe.config
+D:\pliki\programy\STUDIA\Platformy technologiczne\lab9\lab9\bin\Debug\lab9.exe
+D:\pliki\programy\STUDIA\Platformy technologiczne\lab9\lab9\bin\Debug\lab9.pdb
+D:\pliki\programy\STUDIA\Platformy technologiczne\lab9\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+D:\pliki\programy\STUDIA\Platformy technologiczne\lab9\lab9\obj\Debug\lab9.csproj.SuggestedBindingRedirects.cache
+D:\pliki\programy\STUDIA\Platformy technologiczne\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\pliki\programy\STUDIA\Platformy technologiczne\lab9\lab9\obj\Debug\lab9.exe
+D:\pliki\programy\STUDIA\Platformy technologiczne\lab9\lab9\obj\Debug\lab9.pdb
